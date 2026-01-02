@@ -1,4 +1,4 @@
-# Market Basket Analysis: Energy Consumption Forecast and Monitoring
+# Market Basket Analysis: Grocery Items
 
 This project applies the **Apriori algorithm** to a transactional grocery dataset to uncover hidden buying patterns through **Market Basket Analysis (MBA)**. The goal is to transform raw transactional data into actionable business intelligence for optimized product placement and promotional strategies.
 
@@ -7,13 +7,6 @@ This project applies the **Apriori algorithm** to a transactional grocery datase
 ## 📌 Project Overview
 
 In the retail sector, manual analysis of massive datasets is inefficient due to data overload. This project utilizes automated data mining techniques to identify strong associations between products (e.g., items frequently purchased together) to enhance **cross-selling** and **up-selling** opportunities.
-
-**Student:** Rabiul Islam  
-**Student ID:** AIU22102258  
-**Course:** Data Mining (Individual Assignment)  
-**Institution:** Albukhary International University  
-
----
 
 ## 🛠️ Tech Stack
 
